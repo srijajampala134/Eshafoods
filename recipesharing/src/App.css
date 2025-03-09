@@ -108,7 +108,7 @@ section{
 }
 
 .card-body{
-  background-color: #d4f6e8;
+  background-color: #6bcdda;
   padding: 1rem;
 }
 
@@ -286,5 +286,5 @@ section{
 
 .active{
   color:black !important;
-  background-color: #d4f6e8;
+  background-color: #e6f6ef;
 }
